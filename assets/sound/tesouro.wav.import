@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/tesouro.wav-0eaf7325cf49388748c3b2944cc2abba.sample"
+type="AudioStreamWAV"
+uid="uid://cle5g8grdk7bb"
+path="res://.godot/imported/tesouro.wav-7275162eb580481ae4fe122b68976686.sample"
 
 [deps]
 
-source_file="res://Materiais RPG/sons/tesouro.wav"
-dest_files=[ "res://.import/tesouro.wav-0eaf7325cf49388748c3b2944cc2abba.sample" ]
+source_file="res://assets/sound/tesouro.wav"
+dest_files=["res://.godot/imported/tesouro.wav-7275162eb580481ae4fe122b68976686.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

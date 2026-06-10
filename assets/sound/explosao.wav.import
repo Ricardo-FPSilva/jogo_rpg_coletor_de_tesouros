@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/explosao.wav-d398891e2d36b5f3b9b90db22486eb42.sample"
+type="AudioStreamWAV"
+uid="uid://dd75iqijaerrj"
+path="res://.godot/imported/explosao.wav-8222e8eb93d11f6a3e77be64ff4a32b0.sample"
 
 [deps]
 
-source_file="res://Materiais RPG/sons/explosao.wav"
-dest_files=[ "res://.import/explosao.wav-d398891e2d36b5f3b9b90db22486eb42.sample" ]
+source_file="res://assets/sound/explosao.wav"
+dest_files=["res://.godot/imported/explosao.wav-8222e8eb93d11f6a3e77be64ff4a32b0.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0
