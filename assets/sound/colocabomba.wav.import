@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/colocabomba.wav-944a2e00f3e79e3c76cfa2e900d1dd11.sample"
+type="AudioStreamWAV"
+uid="uid://1aegtw4u6wlg"
+path="res://.godot/imported/colocabomba.wav-2d604d4f44d0535e823e3925b629c929.sample"
 
 [deps]
 
-source_file="res://Materiais RPG/sons/colocabomba.wav"
-dest_files=[ "res://.import/colocabomba.wav-944a2e00f3e79e3c76cfa2e900d1dd11.sample" ]
+source_file="res://assets/sound/colocabomba.wav"
+dest_files=["res://.godot/imported/colocabomba.wav-2d604d4f44d0535e823e3925b629c929.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0

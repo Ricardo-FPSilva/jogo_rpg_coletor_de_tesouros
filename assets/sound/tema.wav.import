@@ -1,13 +1,14 @@
 [remap]
 
 importer="wav"
-type="AudioStreamSample"
-path="res://.import/tema.wav-d348d3ffc2086ec79e55bb0f8c38ee7e.sample"
+type="AudioStreamWAV"
+uid="uid://cut4iiubsxahk"
+path="res://.godot/imported/tema.wav-4eef8792d930cf83fe951443aead9350.sample"
 
 [deps]
 
-source_file="res://Materiais RPG/sons/tema.wav"
-dest_files=[ "res://.import/tema.wav-d348d3ffc2086ec79e55bb0f8c38ee7e.sample" ]
+source_file="res://assets/sound/tema.wav"
+dest_files=["res://.godot/imported/tema.wav-4eef8792d930cf83fe951443aead9350.sample"]
 
 [params]
 
@@ -17,5 +18,7 @@ force/max_rate=false
 force/max_rate_hz=44100
 edit/trim=false
 edit/normalize=false
-edit/loop=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
 compress/mode=0
