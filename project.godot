@@ -21,6 +21,10 @@ window/size/viewport_width=410
 window/size/viewport_height=450
 window/size/resizable=false
 
+[dotnet]
+
+project/assembly_name="jogo_rpg_coletor_de_tesouros"
+
 [input]
 
 poe_bomba={
